@@ -1,6 +1,4 @@
-Parece que a última mensagem com o README completo foi cortada no final, mas você já tem o conteúdo completo na minha resposta anterior. Vou reenviar o README novamente, agora em uma única mensagem limpa e sem interrupções, para você copiar direto.
 
----
 
 ```markdown
 # 🏆 TorcidaClub®
@@ -13,7 +11,7 @@ Parece que a última mensagem com o README completo foi cortada no final, mas vo
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC)
 ![License](https://img.shields.io/badge/License-Private-red)
 
----
+
 
 ## 🎯 Sobre o Projeto
 
@@ -111,22 +109,16 @@ src/
 - [x] Autenticação com Google OAuth (gestores)
 - [x] Cadastro multi‑etapa de sócios (validação, documentos, assinatura)
 - [x] Painel de aprovação de novos sócios
-- [ ] Módulo de mensalidades (geração automática, PIX)
+- [x] Módulo de mensalidades (geração automática, PIX)
 - [ ] Sistema de ingressos com QR Code
 - [ ] Dashboard analítico (gráficos, exportação)
-- [ ] Notificações por e-mail (SMTP) e WhatsApp
+- [x] Notificações por e-mail (SMTP) e WhatsApp
 
 ---
 
 ## 🔒 Segurança e Privacidade
 
 Este repositório não contém **nenhuma credencial real, chave de API ou dado de cliente**. Todas as variáveis sensíveis são gerenciadas via arquivo `.env.local` (ignorado pelo Git). Consulte o arquivo [`.env.example`](./.env.example) para ver as variáveis necessárias.
-
----
-
-## 🤝 Como Contribuir
-
-Este é um projeto pessoal para portfólio, mas feedbacks são bem‑vindos. Abra uma *issue* ou me contate diretamente.
 
 ---
 
