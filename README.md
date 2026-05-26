@@ -1,6 +1,4 @@
 
-
-```markdown
 # 🏆 TorcidaClub®
 
 > Plataforma SaaS multi-tenant para gestão completa de Torcidas Organizadas: sócios, mensalidades, ingressos, eventos e muito mais.
@@ -42,7 +40,6 @@ Atualmente em **fase beta** com ~2 fases concluídas (autenticação e cadastro 
 
 ## 🚀 Como Executar Localmente
 
-```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/torcidaclub.git
 cd torcidaclub
@@ -59,7 +56,7 @@ cp .env.example .env.local
 
 # Inicie o servidor de desenvolvimento
 npm run dev
-```
+
 
 Acesse `http://localhost:3000`
 
