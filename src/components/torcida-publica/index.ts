@@ -1,0 +1,5 @@
+export { TorcidaHeader } from './torcida-header'
+export { TorcidaActions } from './torcida-actions'
+export { TorcidaLinks } from './torcida-links'
+export { TorcidaInadimplente } from './torcida-inadimplente'
+export { TorcidaFooter } from './torcida-footer'
