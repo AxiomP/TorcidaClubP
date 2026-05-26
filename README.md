@@ -121,9 +121,9 @@ Este repositório não contém **nenhuma credencial real, chave de API ou dado d
 
 ## 📫 Contato
 
-- **LinkedIn**: [Seu Nome](https://linkedin.com/in/seu-usuario)
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
-- **E‑mail**: seu.email@exemplo.com
+- **LinkedIn**: [linkedin.com/in/gm5/](https://www.linkedin.com/in/gm5/)
+- **GitHub**: [github.com/AxiomP](https://github.com/AxiomP)
+- **E-mail**: maia050604@gmail.com
 
 ---
 
